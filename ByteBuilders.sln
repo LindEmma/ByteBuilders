@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBuilders", "ByteBuilders\ByteBuilders.csproj", "{86BE7CB0-66BB-4E6D-940E-2D19447E1384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BE7CB0-66BB-4E6D-940E-2D19447E1384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BE7CB0-66BB-4E6D-940E-2D19447E1384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BE7CB0-66BB-4E6D-940E-2D19447E1384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BE7CB0-66BB-4E6D-940E-2D19447E1384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A642E1-2221-4046-9162-AF9E94CDE338}
+	EndGlobalSection
+EndGlobal
